@@ -1,0 +1,15 @@
+/workspaces/module5challege/module5challenge/bin/Debug/net8.0/module5challenge
+/workspaces/module5challege/module5challenge/bin/Debug/net8.0/module5challenge.deps.json
+/workspaces/module5challege/module5challenge/bin/Debug/net8.0/module5challenge.runtimeconfig.json
+/workspaces/module5challege/module5challenge/bin/Debug/net8.0/module5challenge.dll
+/workspaces/module5challege/module5challenge/bin/Debug/net8.0/module5challenge.pdb
+/workspaces/module5challege/module5challenge/obj/Debug/net8.0/module5challenge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/module5challege/module5challenge/obj/Debug/net8.0/module5challenge.AssemblyInfoInputs.cache
+/workspaces/module5challege/module5challenge/obj/Debug/net8.0/module5challenge.AssemblyInfo.cs
+/workspaces/module5challege/module5challenge/obj/Debug/net8.0/module5challenge.csproj.CoreCompileInputs.cache
+/workspaces/module5challege/module5challenge/obj/Debug/net8.0/module5challenge.sourcelink.json
+/workspaces/module5challege/module5challenge/obj/Debug/net8.0/module5challenge.dll
+/workspaces/module5challege/module5challenge/obj/Debug/net8.0/refint/module5challenge.dll
+/workspaces/module5challege/module5challenge/obj/Debug/net8.0/module5challenge.pdb
+/workspaces/module5challege/module5challenge/obj/Debug/net8.0/module5challenge.genruntimeconfig.cache
+/workspaces/module5challege/module5challenge/obj/Debug/net8.0/ref/module5challenge.dll
